@@ -27,7 +27,7 @@ For python project
 3) Github_Repo(0) : https://github.com/codecrafters-io/build-your-own-x    
 ![](https://i.imgur.com/XtEy53h.jpg)
 
-*Along with that Learn Basic Python lib used in ML* : both had taught well!   
+### Along with practice Learn Basic Python lib used in ML : all had taught well!   
 1)CWH : https://youtu.be/Rbh1rieb3zc [Numpy] , https://youtu.be/RhEjmHeDNoA [Pandas] , Matplotlib not taught    
 2)FreecodeCamp : https://youtu.be/QUT1VHiLmmI [Numpy] , Not seprated video available for PANDAS , https://youtu.be/3Xc3CA655Y4 [MatplotLib]    
 3)Keith Galli : https://youtu.be/vmEHCJofslg [Pandas]
